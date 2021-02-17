@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DeletegateExample
+namespace DelegateExample
 {
     //Delegate içerisine ekleyeceğiniz metotlar delegate'in tanımına uygun olmalıdır(dönüş değeri, parametreler)
     //parametre almayan, void döndüren metotları barındıran delegate
